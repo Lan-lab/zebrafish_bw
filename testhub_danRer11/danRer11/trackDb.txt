@@ -1,6 +1,15 @@
-track  hpf10_Diencephalon_aplnr2.2
+track  hpf10_Diencephalon_aplnr2
 bigDataUrl https://raw.githubusercontent.com/Lan-lab/zebrafish_bw/main/hpf10_Diencephalon_aplnr2.2.bw
-shortLabel hpf10_Diencephalon_aplnr
-longLabel hpf10_Diencephalon_aplnr2.2
+shortLabel hpf10_Diencephalon_aplnr2
+longLabel hpf10_Diencephalon_aplnr2
 type bigWig
+autoScale on
+visibility full
+
+track  hpf10_Diencephalon
+bigDataUrl https://raw.githubusercontent.com/Lan-lab/zebrafish_bw/main/hpf10_Diencephalon.2.bw
+shortLabel hpf10_Diencephalon
+longLabel hpf10_Diencephalon
+type bigWig
+autoScale on
 visibility full

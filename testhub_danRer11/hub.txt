@@ -1,0 +1,5 @@
+hub XdanRer11
+shortLabel My test hub danRer11
+longLabel My test hub danRer11 up to 80 characters
+genomesFile genomes.txt
+email  xtest@address

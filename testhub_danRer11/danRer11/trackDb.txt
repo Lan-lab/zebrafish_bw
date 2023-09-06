@@ -1,15 +1,34 @@
-track  hpf10_Diencephalon_aplnr2
-bigDataUrl https://raw.githubusercontent.com/Lan-lab/zebrafish_bw/main/hpf10_Diencephalon_aplnr2.2.bw
-shortLabel hpf10_Diencephalon_aplnr2
-longLabel hpf10_Diencephalon_aplnr2
+track hpf4_DEL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/hpf4_DEL.bw
+shortLabel hpf4_DEL
+longLabel hpf4_DEL
 type bigWig
 autoScale on
 visibility full
 
-track  hpf10_Diencephalon
-bigDataUrl https://raw.githubusercontent.com/Lan-lab/zebrafish_bw/main/hpf10_Diencephalon.2.bw
-shortLabel hpf10_Diencephalon
-longLabel hpf10_Diencephalon
+track hpf4_EVL
+bigDataUrl https://43.159.141.176/pdata/sky_zebrafish/hpf4_EVL.bw
+shortLabel hpf4_EVL
+longLabel hpf4_EVL
 type bigWig
 autoScale on
-visibility full
+visibility dense
+
+track hpf4_YSL
+bigDataUrl https://43.159.141.176/pdata/sky_zebrafish/hpf4_YSL.bw
+shortLabel hpf4_YSL
+longLabel hpf4_YSL
+type bigWig
+autoScale on
+visibility hide
+
+track hpf42_Cranial_ganglia
+bigDataUrl https://43.159.141.176/pdata/sky_zebrafish/hpf42_Cranial_ganglia.bw
+shortLabel hpf42_Cranial_ganglia
+longLabel hpf42_Cranial_ganglia
+type bigWig
+autoScale on
+visibility squish
+
+
+

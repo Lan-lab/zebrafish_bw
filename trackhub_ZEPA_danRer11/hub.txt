@@ -1,0 +1,5 @@
+hub ZEPA_zebrafish
+shortLabel ZEPA_zebrafish
+longLabel Zebrafish Embryogenesis single-cell oPen chromatin Atlas (ZEPA)
+genomesFile genomes.txt
+email  keyongsuntsinghua@gmail.com

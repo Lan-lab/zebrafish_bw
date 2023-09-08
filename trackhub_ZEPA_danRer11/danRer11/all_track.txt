@@ -1,0 +1,6048 @@
+track All_Peakset
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_Peakset.bb
+shortLabel All_Peakset
+longLabel All_Peakset
+type bigBed
+visibility dense
+priority 1
+
+track hpf4_DEL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf4/hpf4_DEL.bw
+shortLabel hpf4_DEL
+longLabel hpf4_DEL
+group hpf4
+type bigWig
+autoScale on
+visibility full
+priority 2
+
+track hpf4_EVL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf4/hpf4_EVL.bw
+shortLabel hpf4_EVL
+longLabel hpf4_EVL
+group hpf4
+type bigWig
+autoScale on
+visibility full
+priority 2
+
+track hpf4_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf4/hpf4_YSL.bw
+shortLabel hpf4_YSL
+longLabel hpf4_YSL
+group hpf4
+type bigWig
+autoScale on
+visibility full
+priority 2
+
+track hpf5_DEL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf5/hpf5_DEL.bw
+shortLabel hpf5_DEL
+longLabel hpf5_DEL
+group hpf5
+type bigWig
+autoScale on
+visibility hide
+priority 3
+
+track hpf5_EVL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf5/hpf5_EVL.bw
+shortLabel hpf5_EVL
+longLabel hpf5_EVL
+group hpf5
+type bigWig
+autoScale on
+visibility hide
+priority 3
+
+track hpf5_Margin
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf5/hpf5_Margin.bw
+shortLabel hpf5_Margin
+longLabel hpf5_Margin
+group hpf5
+type bigWig
+autoScale on
+visibility hide
+priority 3
+
+track hpf5_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf5/hpf5_YSL.bw
+shortLabel hpf5_YSL
+longLabel hpf5_YSL
+group hpf5
+type bigWig
+autoScale on
+visibility hide
+priority 3
+
+track hpf6_EVL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf6/hpf6_EVL.bw
+shortLabel hpf6_EVL
+longLabel hpf6_EVL
+group hpf6
+type bigWig
+autoScale on
+visibility hide
+priority 4
+
+track hpf6_Epiblast
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf6/hpf6_Epiblast.bw
+shortLabel hpf6_Epiblast
+longLabel hpf6_Epiblast
+group hpf6
+type bigWig
+autoScale on
+visibility hide
+priority 4
+
+track hpf6_Margin
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf6/hpf6_Margin.bw
+shortLabel hpf6_Margin
+longLabel hpf6_Margin
+group hpf6
+type bigWig
+autoScale on
+visibility hide
+priority 4
+
+track hpf6_Margin_involuted
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf6/hpf6_Margin_involuted.bw
+shortLabel hpf6_Margin_involuted
+longLabel hpf6_Margin_involuted
+group hpf6
+type bigWig
+autoScale on
+visibility hide
+priority 4
+
+track hpf6_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf6/hpf6_YSL.bw
+shortLabel hpf6_YSL
+longLabel hpf6_YSL
+group hpf6
+type bigWig
+autoScale on
+visibility hide
+priority 4
+
+track hpf7_Dorsal_margin_involuted
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf7/hpf7_Dorsal_margin_involuted.bw
+shortLabel hpf7_Dorsal_margin_involuted
+longLabel hpf7_Dorsal_margin_involuted
+group hpf7
+type bigWig
+autoScale on
+visibility hide
+priority 5
+
+track hpf7_EVL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf7/hpf7_EVL.bw
+shortLabel hpf7_EVL
+longLabel hpf7_EVL
+group hpf7
+type bigWig
+autoScale on
+visibility hide
+priority 5
+
+track hpf7_Endoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf7/hpf7_Endoderm.bw
+shortLabel hpf7_Endoderm
+longLabel hpf7_Endoderm
+group hpf7
+type bigWig
+autoScale on
+visibility hide
+priority 5
+
+track hpf7_Epiblast
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf7/hpf7_Epiblast.bw
+shortLabel hpf7_Epiblast
+longLabel hpf7_Epiblast
+group hpf7
+type bigWig
+autoScale on
+visibility hide
+priority 5
+
+track hpf7_Margin
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf7/hpf7_Margin.bw
+shortLabel hpf7_Margin
+longLabel hpf7_Margin
+group hpf7
+type bigWig
+autoScale on
+visibility hide
+priority 5
+
+track hpf7_Non_dorsal_margin_involuted
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf7/hpf7_Non_dorsal_margin_involuted.bw
+shortLabel hpf7_Non_dorsal_margin_involuted
+longLabel hpf7_Non_dorsal_margin_involuted
+group hpf7
+type bigWig
+autoScale on
+visibility hide
+priority 5
+
+track hpf7_Prechordal_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf7/hpf7_Prechordal_plate.bw
+shortLabel hpf7_Prechordal_plate
+longLabel hpf7_Prechordal_plate
+group hpf7
+type bigWig
+autoScale on
+visibility hide
+priority 5
+
+track hpf7_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf7/hpf7_YSL.bw
+shortLabel hpf7_YSL
+longLabel hpf7_YSL
+group hpf7
+type bigWig
+autoScale on
+visibility hide
+priority 5
+
+track hpf8_EVL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_EVL.bw
+shortLabel hpf8_EVL
+longLabel hpf8_EVL
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Endoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Endoderm.bw
+shortLabel hpf8_Endoderm
+longLabel hpf8_Endoderm
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Epidermal.bw
+shortLabel hpf8_Epidermal
+longLabel hpf8_Epidermal
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Mesoderm_adaxial_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Mesoderm_adaxial_cells.bw
+shortLabel hpf8_Mesoderm_adaxial_cells
+longLabel hpf8_Mesoderm_adaxial_cells
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Mesoderm_lateral_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Mesoderm_lateral_plate.bw
+shortLabel hpf8_Mesoderm_lateral_plate
+longLabel hpf8_Mesoderm_lateral_plate
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Neural_plate_anterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Neural_plate_anterior.bw
+shortLabel hpf8_Neural_plate_anterior
+longLabel hpf8_Neural_plate_anterior
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Neural_plate_posterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Neural_plate_posterior.bw
+shortLabel hpf8_Neural_plate_posterior
+longLabel hpf8_Neural_plate_posterior
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Notochord.bw
+shortLabel hpf8_Notochord
+longLabel hpf8_Notochord
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Prechordal_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Prechordal_plate.bw
+shortLabel hpf8_Prechordal_plate
+longLabel hpf8_Prechordal_plate
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Tailbud_mesoderm.bw
+shortLabel hpf8_Tailbud_mesoderm
+longLabel hpf8_Tailbud_mesoderm
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_Tailbud_spinal_cord.bw
+shortLabel hpf8_Tailbud_spinal_cord
+longLabel hpf8_Tailbud_spinal_cord
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf8_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf8/hpf8_YSL.bw
+shortLabel hpf8_YSL
+longLabel hpf8_YSL
+group hpf8
+type bigWig
+autoScale on
+visibility hide
+priority 6
+
+track hpf9_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Diencephalon.bw
+shortLabel hpf9_Diencephalon
+longLabel hpf9_Diencephalon
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_EVL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_EVL.bw
+shortLabel hpf9_EVL
+longLabel hpf9_EVL
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Endoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Endoderm.bw
+shortLabel hpf9_Endoderm
+longLabel hpf9_Endoderm
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Epidermal.bw
+shortLabel hpf9_Epidermal
+longLabel hpf9_Epidermal
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Mesoderm_adaxial_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Mesoderm_adaxial_cells.bw
+shortLabel hpf9_Mesoderm_adaxial_cells
+longLabel hpf9_Mesoderm_adaxial_cells
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Mesoderm_lateral_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Mesoderm_lateral_plate.bw
+shortLabel hpf9_Mesoderm_lateral_plate
+longLabel hpf9_Mesoderm_lateral_plate
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Mesoderm_lateral_plate_tbx1
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Mesoderm_lateral_plate_tbx1.bw
+shortLabel hpf9_Mesoderm_lateral_plate_tbx1
+longLabel hpf9_Mesoderm_lateral_plate_tbx1
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Neural_plate_anterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Neural_plate_anterior.bw
+shortLabel hpf9_Neural_plate_anterior
+longLabel hpf9_Neural_plate_anterior
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Neural_plate_posterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Neural_plate_posterior.bw
+shortLabel hpf9_Neural_plate_posterior
+longLabel hpf9_Neural_plate_posterior
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Notochord.bw
+shortLabel hpf9_Notochord
+longLabel hpf9_Notochord
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Prechordal_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Prechordal_plate.bw
+shortLabel hpf9_Prechordal_plate
+longLabel hpf9_Prechordal_plate
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Tailbud_mesoderm.bw
+shortLabel hpf9_Tailbud_mesoderm
+longLabel hpf9_Tailbud_mesoderm
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_Tailbud_spinal_cord.bw
+shortLabel hpf9_Tailbud_spinal_cord
+longLabel hpf9_Tailbud_spinal_cord
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf9_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf9/hpf9_YSL.bw
+shortLabel hpf9_YSL
+longLabel hpf9_YSL
+group hpf9
+type bigWig
+autoScale on
+visibility hide
+priority 7
+
+track hpf10_Anterior_neural_ridge
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Anterior_neural_ridge.bw
+shortLabel hpf10_Anterior_neural_ridge
+longLabel hpf10_Anterior_neural_ridge
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Diencephalon.bw
+shortLabel hpf10_Diencephalon
+longLabel hpf10_Diencephalon
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Diencephalon_aplnr2
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Diencephalon_aplnr2.bw
+shortLabel hpf10_Diencephalon_aplnr2
+longLabel hpf10_Diencephalon_aplnr2
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Differentiating_neurons.bw
+shortLabel hpf10_Differentiating_neurons
+longLabel hpf10_Differentiating_neurons
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Endoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Endoderm.bw
+shortLabel hpf10_Endoderm
+longLabel hpf10_Endoderm
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Epidermal.bw
+shortLabel hpf10_Epidermal
+longLabel hpf10_Epidermal
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Epidermal_gbx2
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Epidermal_gbx2.bw
+shortLabel hpf10_Epidermal_gbx2
+longLabel hpf10_Epidermal_gbx2
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Hindbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Hindbrain.bw
+shortLabel hpf10_Hindbrain
+longLabel hpf10_Hindbrain
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Mesoderm_adaxial_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Mesoderm_adaxial_cells.bw
+shortLabel hpf10_Mesoderm_adaxial_cells
+longLabel hpf10_Mesoderm_adaxial_cells
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Mesoderm_lateral_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Mesoderm_lateral_plate.bw
+shortLabel hpf10_Mesoderm_lateral_plate
+longLabel hpf10_Mesoderm_lateral_plate
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Mesoderm_lateral_plate_tbx1
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Mesoderm_lateral_plate_tbx1.bw
+shortLabel hpf10_Mesoderm_lateral_plate_tbx1
+longLabel hpf10_Mesoderm_lateral_plate_tbx1
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Midbrain.bw
+shortLabel hpf10_Midbrain
+longLabel hpf10_Midbrain
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Neural_anterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Neural_anterior.bw
+shortLabel hpf10_Neural_anterior
+longLabel hpf10_Neural_anterior
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Neural_crest.bw
+shortLabel hpf10_Neural_crest
+longLabel hpf10_Neural_crest
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Neural_plate_anterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Neural_plate_anterior.bw
+shortLabel hpf10_Neural_plate_anterior
+longLabel hpf10_Neural_plate_anterior
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Neural_plate_posterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Neural_plate_posterior.bw
+shortLabel hpf10_Neural_plate_posterior
+longLabel hpf10_Neural_plate_posterior
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Notochord.bw
+shortLabel hpf10_Notochord
+longLabel hpf10_Notochord
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Periderm.bw
+shortLabel hpf10_Periderm
+longLabel hpf10_Periderm
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Prechordal_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Prechordal_plate.bw
+shortLabel hpf10_Prechordal_plate
+longLabel hpf10_Prechordal_plate
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Tailbud_mesoderm.bw
+shortLabel hpf10_Tailbud_mesoderm
+longLabel hpf10_Tailbud_mesoderm
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Tailbud_spinal_cord.bw
+shortLabel hpf10_Tailbud_spinal_cord
+longLabel hpf10_Tailbud_spinal_cord
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_Telencephalon.bw
+shortLabel hpf10_Telencephalon
+longLabel hpf10_Telencephalon
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf10_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf10/hpf10_YSL.bw
+shortLabel hpf10_YSL
+longLabel hpf10_YSL
+group hpf10
+type bigWig
+autoScale on
+visibility hide
+priority 8
+
+track hpf11_Anterior_neural_ridge
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Anterior_neural_ridge.bw
+shortLabel hpf11_Anterior_neural_ridge
+longLabel hpf11_Anterior_neural_ridge
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Diencephalon.bw
+shortLabel hpf11_Diencephalon
+longLabel hpf11_Diencephalon
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Diencephalon_aplnr2
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Diencephalon_aplnr2.bw
+shortLabel hpf11_Diencephalon_aplnr2
+longLabel hpf11_Diencephalon_aplnr2
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Differentiating_neurons.bw
+shortLabel hpf11_Differentiating_neurons
+longLabel hpf11_Differentiating_neurons
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Endoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Endoderm.bw
+shortLabel hpf11_Endoderm
+longLabel hpf11_Endoderm
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Epidermal.bw
+shortLabel hpf11_Epidermal
+longLabel hpf11_Epidermal
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Epidermal_gbx2
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Epidermal_gbx2.bw
+shortLabel hpf11_Epidermal_gbx2
+longLabel hpf11_Epidermal_gbx2
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Hatching_gland.bw
+shortLabel hpf11_Hatching_gland
+longLabel hpf11_Hatching_gland
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Hindbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Hindbrain.bw
+shortLabel hpf11_Hindbrain
+longLabel hpf11_Hindbrain
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Mesoderm_adaxial_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Mesoderm_adaxial_cells.bw
+shortLabel hpf11_Mesoderm_adaxial_cells
+longLabel hpf11_Mesoderm_adaxial_cells
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Mesoderm_lateral_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Mesoderm_lateral_plate.bw
+shortLabel hpf11_Mesoderm_lateral_plate
+longLabel hpf11_Mesoderm_lateral_plate
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Mesoderm_lateral_plate_fli1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Mesoderm_lateral_plate_fli1a.bw
+shortLabel hpf11_Mesoderm_lateral_plate_fli1a
+longLabel hpf11_Mesoderm_lateral_plate_fli1a
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Mesoderm_lateral_plate_tbx1
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Mesoderm_lateral_plate_tbx1.bw
+shortLabel hpf11_Mesoderm_lateral_plate_tbx1
+longLabel hpf11_Mesoderm_lateral_plate_tbx1
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Midbrain.bw
+shortLabel hpf11_Midbrain
+longLabel hpf11_Midbrain
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Myotome.bw
+shortLabel hpf11_Myotome
+longLabel hpf11_Myotome
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Neural_anterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Neural_anterior.bw
+shortLabel hpf11_Neural_anterior
+longLabel hpf11_Neural_anterior
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Neural_crest.bw
+shortLabel hpf11_Neural_crest
+longLabel hpf11_Neural_crest
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Neural_plate_anterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Neural_plate_anterior.bw
+shortLabel hpf11_Neural_plate_anterior
+longLabel hpf11_Neural_plate_anterior
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Neural_plate_posterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Neural_plate_posterior.bw
+shortLabel hpf11_Neural_plate_posterior
+longLabel hpf11_Neural_plate_posterior
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Notochord.bw
+shortLabel hpf11_Notochord
+longLabel hpf11_Notochord
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Periderm.bw
+shortLabel hpf11_Periderm
+longLabel hpf11_Periderm
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Tailbud_mesoderm.bw
+shortLabel hpf11_Tailbud_mesoderm
+longLabel hpf11_Tailbud_mesoderm
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Tailbud_spinal_cord.bw
+shortLabel hpf11_Tailbud_spinal_cord
+longLabel hpf11_Tailbud_spinal_cord
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_Telencephalon.bw
+shortLabel hpf11_Telencephalon
+longLabel hpf11_Telencephalon
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf11_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf11/hpf11_YSL.bw
+shortLabel hpf11_YSL
+longLabel hpf11_YSL
+group hpf11
+type bigWig
+autoScale on
+visibility hide
+priority 9
+
+track hpf12_Anterior_neural_ridge
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Anterior_neural_ridge.bw
+shortLabel hpf12_Anterior_neural_ridge
+longLabel hpf12_Anterior_neural_ridge
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Diencephalon.bw
+shortLabel hpf12_Diencephalon
+longLabel hpf12_Diencephalon
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Diencephalon_aplnr2
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Diencephalon_aplnr2.bw
+shortLabel hpf12_Diencephalon_aplnr2
+longLabel hpf12_Diencephalon_aplnr2
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Differentiating_neurons.bw
+shortLabel hpf12_Differentiating_neurons
+longLabel hpf12_Differentiating_neurons
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Endoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Endoderm.bw
+shortLabel hpf12_Endoderm
+longLabel hpf12_Endoderm
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Epidermal.bw
+shortLabel hpf12_Epidermal
+longLabel hpf12_Epidermal
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Epidermal_foxi3a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Epidermal_foxi3a.bw
+shortLabel hpf12_Epidermal_foxi3a
+longLabel hpf12_Epidermal_foxi3a
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Epidermal_gbx2
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Epidermal_gbx2.bw
+shortLabel hpf12_Epidermal_gbx2
+longLabel hpf12_Epidermal_gbx2
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Hatching_gland.bw
+shortLabel hpf12_Hatching_gland
+longLabel hpf12_Hatching_gland
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Hindbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Hindbrain.bw
+shortLabel hpf12_Hindbrain
+longLabel hpf12_Hindbrain
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Mesoderm_adaxial_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Mesoderm_adaxial_cells.bw
+shortLabel hpf12_Mesoderm_adaxial_cells
+longLabel hpf12_Mesoderm_adaxial_cells
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Mesoderm_lateral_plate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Mesoderm_lateral_plate.bw
+shortLabel hpf12_Mesoderm_lateral_plate
+longLabel hpf12_Mesoderm_lateral_plate
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Mesoderm_lateral_plate_fli1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Mesoderm_lateral_plate_fli1a.bw
+shortLabel hpf12_Mesoderm_lateral_plate_fli1a
+longLabel hpf12_Mesoderm_lateral_plate_fli1a
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Mesoderm_lateral_plate_tbx1
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Mesoderm_lateral_plate_tbx1.bw
+shortLabel hpf12_Mesoderm_lateral_plate_tbx1
+longLabel hpf12_Mesoderm_lateral_plate_tbx1
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Midbrain.bw
+shortLabel hpf12_Midbrain
+longLabel hpf12_Midbrain
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Myotome.bw
+shortLabel hpf12_Myotome
+longLabel hpf12_Myotome
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Neural_anterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Neural_anterior.bw
+shortLabel hpf12_Neural_anterior
+longLabel hpf12_Neural_anterior
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Neural_crest.bw
+shortLabel hpf12_Neural_crest
+longLabel hpf12_Neural_crest
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Neural_plate_posterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Neural_plate_posterior.bw
+shortLabel hpf12_Neural_plate_posterior
+longLabel hpf12_Neural_plate_posterior
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Notochord.bw
+shortLabel hpf12_Notochord
+longLabel hpf12_Notochord
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Periderm.bw
+shortLabel hpf12_Periderm
+longLabel hpf12_Periderm
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Tailbud_mesoderm.bw
+shortLabel hpf12_Tailbud_mesoderm
+longLabel hpf12_Tailbud_mesoderm
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Tailbud_spinal_cord.bw
+shortLabel hpf12_Tailbud_spinal_cord
+longLabel hpf12_Tailbud_spinal_cord
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_Telencephalon.bw
+shortLabel hpf12_Telencephalon
+longLabel hpf12_Telencephalon
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf12_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf12/hpf12_YSL.bw
+shortLabel hpf12_YSL
+longLabel hpf12_YSL
+group hpf12
+type bigWig
+autoScale on
+visibility hide
+priority 10
+
+track hpf14_Anterior_neural_ridge
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Anterior_neural_ridge.bw
+shortLabel hpf14_Anterior_neural_ridge
+longLabel hpf14_Anterior_neural_ridge
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Blood_island
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Blood_island.bw
+shortLabel hpf14_Blood_island
+longLabel hpf14_Blood_island
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Diencephalon.bw
+shortLabel hpf14_Diencephalon
+longLabel hpf14_Diencephalon
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Differentiating_neurons.bw
+shortLabel hpf14_Differentiating_neurons
+longLabel hpf14_Differentiating_neurons
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Endothelial.bw
+shortLabel hpf14_Endothelial
+longLabel hpf14_Endothelial
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Epidermal.bw
+shortLabel hpf14_Epidermal
+longLabel hpf14_Epidermal
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Epidermal_foxi3a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Epidermal_foxi3a.bw
+shortLabel hpf14_Epidermal_foxi3a
+longLabel hpf14_Epidermal_foxi3a
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Floorplate.bw
+shortLabel hpf14_Floorplate
+longLabel hpf14_Floorplate
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Gut.bw
+shortLabel hpf14_Gut
+longLabel hpf14_Gut
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Hatching_gland.bw
+shortLabel hpf14_Hatching_gland
+longLabel hpf14_Hatching_gland
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Heart_field.bw
+shortLabel hpf14_Heart_field
+longLabel hpf14_Heart_field
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Hindbrain_dorsal.bw
+shortLabel hpf14_Hindbrain_dorsal
+longLabel hpf14_Hindbrain_dorsal
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Hindbrain_ventral.bw
+shortLabel hpf14_Hindbrain_ventral
+longLabel hpf14_Hindbrain_ventral
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Lateral_line_primordium.bw
+shortLabel hpf14_Lateral_line_primordium
+longLabel hpf14_Lateral_line_primordium
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Mesoderm_adaxial_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Mesoderm_adaxial_cells.bw
+shortLabel hpf14_Mesoderm_adaxial_cells
+longLabel hpf14_Mesoderm_adaxial_cells
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Midbrain.bw
+shortLabel hpf14_Midbrain
+longLabel hpf14_Midbrain
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Midbrain_ventral.bw
+shortLabel hpf14_Midbrain_ventral
+longLabel hpf14_Midbrain_ventral
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Myotome.bw
+shortLabel hpf14_Myotome
+longLabel hpf14_Myotome
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Neural_crest.bw
+shortLabel hpf14_Neural_crest
+longLabel hpf14_Neural_crest
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Neural_plate_posterior
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Neural_plate_posterior.bw
+shortLabel hpf14_Neural_plate_posterior
+longLabel hpf14_Neural_plate_posterior
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Notochord.bw
+shortLabel hpf14_Notochord
+longLabel hpf14_Notochord
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Optic_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Optic_primordium.bw
+shortLabel hpf14_Optic_primordium
+longLabel hpf14_Optic_primordium
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Otic_placode.bw
+shortLabel hpf14_Otic_placode
+longLabel hpf14_Otic_placode
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Periderm.bw
+shortLabel hpf14_Periderm
+longLabel hpf14_Periderm
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Pharyngeal_arch.bw
+shortLabel hpf14_Pharyngeal_arch
+longLabel hpf14_Pharyngeal_arch
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Pronephric_duct.bw
+shortLabel hpf14_Pronephric_duct
+longLabel hpf14_Pronephric_duct
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Tailbud_mesoderm.bw
+shortLabel hpf14_Tailbud_mesoderm
+longLabel hpf14_Tailbud_mesoderm
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Tailbud_spinal_cord.bw
+shortLabel hpf14_Tailbud_spinal_cord
+longLabel hpf14_Tailbud_spinal_cord
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_Telencephalon.bw
+shortLabel hpf14_Telencephalon
+longLabel hpf14_Telencephalon
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf14_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf14/hpf14_YSL.bw
+shortLabel hpf14_YSL
+longLabel hpf14_YSL
+group hpf14
+type bigWig
+autoScale on
+visibility hide
+priority 11
+
+track hpf18_Anterior_neural_ridge
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Anterior_neural_ridge.bw
+shortLabel hpf18_Anterior_neural_ridge
+longLabel hpf18_Anterior_neural_ridge
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Blood_island
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Blood_island.bw
+shortLabel hpf18_Blood_island
+longLabel hpf18_Blood_island
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Diencephalon.bw
+shortLabel hpf18_Diencephalon
+longLabel hpf18_Diencephalon
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Differentiating_neurons.bw
+shortLabel hpf18_Differentiating_neurons
+longLabel hpf18_Differentiating_neurons
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Endothelial.bw
+shortLabel hpf18_Endothelial
+longLabel hpf18_Endothelial
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Epidermal.bw
+shortLabel hpf18_Epidermal
+longLabel hpf18_Epidermal
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Fast_muscle_cells.bw
+shortLabel hpf18_Fast_muscle_cells
+longLabel hpf18_Fast_muscle_cells
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Floorplate.bw
+shortLabel hpf18_Floorplate
+longLabel hpf18_Floorplate
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Gut.bw
+shortLabel hpf18_Gut
+longLabel hpf18_Gut
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Hatching_gland.bw
+shortLabel hpf18_Hatching_gland
+longLabel hpf18_Hatching_gland
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Heart_field.bw
+shortLabel hpf18_Heart_field
+longLabel hpf18_Heart_field
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Hindbrain_dorsal.bw
+shortLabel hpf18_Hindbrain_dorsal
+longLabel hpf18_Hindbrain_dorsal
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Hindbrain_ventral.bw
+shortLabel hpf18_Hindbrain_ventral
+longLabel hpf18_Hindbrain_ventral
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Immune_cells.bw
+shortLabel hpf18_Immune_cells
+longLabel hpf18_Immune_cells
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Lateral_line_primordium.bw
+shortLabel hpf18_Lateral_line_primordium
+longLabel hpf18_Lateral_line_primordium
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Lens_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Lens_placode.bw
+shortLabel hpf18_Lens_placode
+longLabel hpf18_Lens_placode
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Midbrain.bw
+shortLabel hpf18_Midbrain
+longLabel hpf18_Midbrain
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Midbrain_ventral.bw
+shortLabel hpf18_Midbrain_ventral
+longLabel hpf18_Midbrain_ventral
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Myotome.bw
+shortLabel hpf18_Myotome
+longLabel hpf18_Myotome
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Neural_crest.bw
+shortLabel hpf18_Neural_crest
+longLabel hpf18_Neural_crest
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Notochord.bw
+shortLabel hpf18_Notochord
+longLabel hpf18_Notochord
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Olfactory_placode.bw
+shortLabel hpf18_Olfactory_placode
+longLabel hpf18_Olfactory_placode
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Optic_cup
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Optic_cup.bw
+shortLabel hpf18_Optic_cup
+longLabel hpf18_Optic_cup
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Otic_placode.bw
+shortLabel hpf18_Otic_placode
+longLabel hpf18_Otic_placode
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Pectoral_fin_field.bw
+shortLabel hpf18_Pectoral_fin_field
+longLabel hpf18_Pectoral_fin_field
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Periderm.bw
+shortLabel hpf18_Periderm
+longLabel hpf18_Periderm
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Pharyngeal_arch.bw
+shortLabel hpf18_Pharyngeal_arch
+longLabel hpf18_Pharyngeal_arch
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Pharyngeal_epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Pharyngeal_epidermal.bw
+shortLabel hpf18_Pharyngeal_epidermal
+longLabel hpf18_Pharyngeal_epidermal
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Posterior_ventral_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Posterior_ventral_phox2bb.bw
+shortLabel hpf18_Posterior_ventral_phox2bb
+longLabel hpf18_Posterior_ventral_phox2bb
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Pronephric_duct.bw
+shortLabel hpf18_Pronephric_duct
+longLabel hpf18_Pronephric_duct
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Retina_pigmented_epithelium.bw
+shortLabel hpf18_Retina_pigmented_epithelium
+longLabel hpf18_Retina_pigmented_epithelium
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Sclerotome.bw
+shortLabel hpf18_Sclerotome
+longLabel hpf18_Sclerotome
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Slow_muscle_cells.bw
+shortLabel hpf18_Slow_muscle_cells
+longLabel hpf18_Slow_muscle_cells
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Tailbud_mesoderm.bw
+shortLabel hpf18_Tailbud_mesoderm
+longLabel hpf18_Tailbud_mesoderm
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Tailbud_spinal_cord.bw
+shortLabel hpf18_Tailbud_spinal_cord
+longLabel hpf18_Tailbud_spinal_cord
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_Telencephalon.bw
+shortLabel hpf18_Telencephalon
+longLabel hpf18_Telencephalon
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_YSL.bw
+shortLabel hpf18_YSL
+longLabel hpf18_YSL
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf18_epidermal_foxi3a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf18/hpf18_epidermal_foxi3a.bw
+shortLabel hpf18_epidermal_foxi3a
+longLabel hpf18_epidermal_foxi3a
+group hpf18
+type bigWig
+autoScale on
+visibility hide
+priority 12
+
+track hpf20_Anterior_neural_ridge
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Anterior_neural_ridge.bw
+shortLabel hpf20_Anterior_neural_ridge
+longLabel hpf20_Anterior_neural_ridge
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Blood_island
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Blood_island.bw
+shortLabel hpf20_Blood_island
+longLabel hpf20_Blood_island
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Cardiac_neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Cardiac_neural_crest.bw
+shortLabel hpf20_Cardiac_neural_crest
+longLabel hpf20_Cardiac_neural_crest
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Cranial_ganglia.bw
+shortLabel hpf20_Cranial_ganglia
+longLabel hpf20_Cranial_ganglia
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Cranial_neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Cranial_neural_crest.bw
+shortLabel hpf20_Cranial_neural_crest
+longLabel hpf20_Cranial_neural_crest
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Diencephalon.bw
+shortLabel hpf20_Diencephalon
+longLabel hpf20_Diencephalon
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Differentiating_neurons.bw
+shortLabel hpf20_Differentiating_neurons
+longLabel hpf20_Differentiating_neurons
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Differentiating_neurons_eomesa
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Differentiating_neurons_eomesa.bw
+shortLabel hpf20_Differentiating_neurons_eomesa
+longLabel hpf20_Differentiating_neurons_eomesa
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Endothelial.bw
+shortLabel hpf20_Endothelial
+longLabel hpf20_Endothelial
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Epidermal.bw
+shortLabel hpf20_Epidermal
+longLabel hpf20_Epidermal
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Epidermal_foxi3a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Epidermal_foxi3a.bw
+shortLabel hpf20_Epidermal_foxi3a
+longLabel hpf20_Epidermal_foxi3a
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Fast_muscle_cells.bw
+shortLabel hpf20_Fast_muscle_cells
+longLabel hpf20_Fast_muscle_cells
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Floorplate.bw
+shortLabel hpf20_Floorplate
+longLabel hpf20_Floorplate
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Gut.bw
+shortLabel hpf20_Gut
+longLabel hpf20_Gut
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Hatching_gland.bw
+shortLabel hpf20_Hatching_gland
+longLabel hpf20_Hatching_gland
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Heart
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Heart.bw
+shortLabel hpf20_Heart
+longLabel hpf20_Heart
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Hindbrain_dorsal.bw
+shortLabel hpf20_Hindbrain_dorsal
+longLabel hpf20_Hindbrain_dorsal
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Hindbrain_ventral.bw
+shortLabel hpf20_Hindbrain_ventral
+longLabel hpf20_Hindbrain_ventral
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Immune_cells.bw
+shortLabel hpf20_Immune_cells
+longLabel hpf20_Immune_cells
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Lateral_line_primordium.bw
+shortLabel hpf20_Lateral_line_primordium
+longLabel hpf20_Lateral_line_primordium
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Lens.bw
+shortLabel hpf20_Lens
+longLabel hpf20_Lens
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Midbrain.bw
+shortLabel hpf20_Midbrain
+longLabel hpf20_Midbrain
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Midbrain_ventral.bw
+shortLabel hpf20_Midbrain_ventral
+longLabel hpf20_Midbrain_ventral
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Myotome.bw
+shortLabel hpf20_Myotome
+longLabel hpf20_Myotome
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Neural_crest.bw
+shortLabel hpf20_Neural_crest
+longLabel hpf20_Neural_crest
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Notochord.bw
+shortLabel hpf20_Notochord
+longLabel hpf20_Notochord
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Olfactory_placode.bw
+shortLabel hpf20_Olfactory_placode
+longLabel hpf20_Olfactory_placode
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Optic_cup
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Optic_cup.bw
+shortLabel hpf20_Optic_cup
+longLabel hpf20_Optic_cup
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Otic_placode.bw
+shortLabel hpf20_Otic_placode
+longLabel hpf20_Otic_placode
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Pectoral_fin_field.bw
+shortLabel hpf20_Pectoral_fin_field
+longLabel hpf20_Pectoral_fin_field
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Periderm.bw
+shortLabel hpf20_Periderm
+longLabel hpf20_Periderm
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Pharyngeal_arch.bw
+shortLabel hpf20_Pharyngeal_arch
+longLabel hpf20_Pharyngeal_arch
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Pharyngeal_epidermis.bw
+shortLabel hpf20_Pharyngeal_epidermis
+longLabel hpf20_Pharyngeal_epidermis
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Posterior_ventral_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Posterior_ventral_phox2bb.bw
+shortLabel hpf20_Posterior_ventral_phox2bb
+longLabel hpf20_Posterior_ventral_phox2bb
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Pronephric_duct.bw
+shortLabel hpf20_Pronephric_duct
+longLabel hpf20_Pronephric_duct
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Retina_pigmented_epithelium.bw
+shortLabel hpf20_Retina_pigmented_epithelium
+longLabel hpf20_Retina_pigmented_epithelium
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Sclerotome.bw
+shortLabel hpf20_Sclerotome
+longLabel hpf20_Sclerotome
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Slow_muscle_cells.bw
+shortLabel hpf20_Slow_muscle_cells
+longLabel hpf20_Slow_muscle_cells
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Tailbud_Mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Tailbud_Mesoderm.bw
+shortLabel hpf20_Tailbud_Mesoderm
+longLabel hpf20_Tailbud_Mesoderm
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Tailbud_spinal_cord.bw
+shortLabel hpf20_Tailbud_spinal_cord
+longLabel hpf20_Tailbud_spinal_cord
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Telencephalon.bw
+shortLabel hpf20_Telencephalon
+longLabel hpf20_Telencephalon
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_Vessel_progenitor
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_Vessel_progenitor.bw
+shortLabel hpf20_Vessel_progenitor
+longLabel hpf20_Vessel_progenitor
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf20_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf20/hpf20_YSL.bw
+shortLabel hpf20_YSL
+longLabel hpf20_YSL
+group hpf20
+type bigWig
+autoScale on
+visibility hide
+priority 13
+
+track hpf22_Blood_island
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Blood_island.bw
+shortLabel hpf22_Blood_island
+longLabel hpf22_Blood_island
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Cardiac_neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Cardiac_neural_crest.bw
+shortLabel hpf22_Cardiac_neural_crest
+longLabel hpf22_Cardiac_neural_crest
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Cranial_ganglia.bw
+shortLabel hpf22_Cranial_ganglia
+longLabel hpf22_Cranial_ganglia
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Cranial_neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Cranial_neural_crest.bw
+shortLabel hpf22_Cranial_neural_crest
+longLabel hpf22_Cranial_neural_crest
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Diencephalon.bw
+shortLabel hpf22_Diencephalon
+longLabel hpf22_Diencephalon
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Differentiating_neurons.bw
+shortLabel hpf22_Differentiating_neurons
+longLabel hpf22_Differentiating_neurons
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Differentiating_neurons_eomesa
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Differentiating_neurons_eomesa.bw
+shortLabel hpf22_Differentiating_neurons_eomesa
+longLabel hpf22_Differentiating_neurons_eomesa
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Endothelial.bw
+shortLabel hpf22_Endothelial
+longLabel hpf22_Endothelial
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Epidermal.bw
+shortLabel hpf22_Epidermal
+longLabel hpf22_Epidermal
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Epidermal_foxi3a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Epidermal_foxi3a.bw
+shortLabel hpf22_Epidermal_foxi3a
+longLabel hpf22_Epidermal_foxi3a
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Fast_muscle_cells.bw
+shortLabel hpf22_Fast_muscle_cells
+longLabel hpf22_Fast_muscle_cells
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Floorplate.bw
+shortLabel hpf22_Floorplate
+longLabel hpf22_Floorplate
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Gut.bw
+shortLabel hpf22_Gut
+longLabel hpf22_Gut
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Hatching_gland.bw
+shortLabel hpf22_Hatching_gland
+longLabel hpf22_Hatching_gland
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Heart_field.bw
+shortLabel hpf22_Heart_field
+longLabel hpf22_Heart_field
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Hindbrain_dorsal.bw
+shortLabel hpf22_Hindbrain_dorsal
+longLabel hpf22_Hindbrain_dorsal
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Hindbrain_ventral.bw
+shortLabel hpf22_Hindbrain_ventral
+longLabel hpf22_Hindbrain_ventral
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Immune_cells.bw
+shortLabel hpf22_Immune_cells
+longLabel hpf22_Immune_cells
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Lateral_line_primordium.bw
+shortLabel hpf22_Lateral_line_primordium
+longLabel hpf22_Lateral_line_primordium
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Lens.bw
+shortLabel hpf22_Lens
+longLabel hpf22_Lens
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Midbrain.bw
+shortLabel hpf22_Midbrain
+longLabel hpf22_Midbrain
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Midbrain_ventral.bw
+shortLabel hpf22_Midbrain_ventral
+longLabel hpf22_Midbrain_ventral
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Myotome.bw
+shortLabel hpf22_Myotome
+longLabel hpf22_Myotome
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Neural_crest.bw
+shortLabel hpf22_Neural_crest
+longLabel hpf22_Neural_crest
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Notochord.bw
+shortLabel hpf22_Notochord
+longLabel hpf22_Notochord
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Olfactory_placode.bw
+shortLabel hpf22_Olfactory_placode
+longLabel hpf22_Olfactory_placode
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Optic_cup
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Optic_cup.bw
+shortLabel hpf22_Optic_cup
+longLabel hpf22_Optic_cup
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Otic_placode.bw
+shortLabel hpf22_Otic_placode
+longLabel hpf22_Otic_placode
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Pectoral_fin_field.bw
+shortLabel hpf22_Pectoral_fin_field
+longLabel hpf22_Pectoral_fin_field
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Periderm.bw
+shortLabel hpf22_Periderm
+longLabel hpf22_Periderm
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Pharyngeal_arch.bw
+shortLabel hpf22_Pharyngeal_arch
+longLabel hpf22_Pharyngeal_arch
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Pharyngeal_epidermis.bw
+shortLabel hpf22_Pharyngeal_epidermis
+longLabel hpf22_Pharyngeal_epidermis
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Posterior_ventral_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Posterior_ventral_phox2bb.bw
+shortLabel hpf22_Posterior_ventral_phox2bb
+longLabel hpf22_Posterior_ventral_phox2bb
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Pronephric_duct.bw
+shortLabel hpf22_Pronephric_duct
+longLabel hpf22_Pronephric_duct
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Retina_pigmented_epithelium.bw
+shortLabel hpf22_Retina_pigmented_epithelium
+longLabel hpf22_Retina_pigmented_epithelium
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Sclerotome.bw
+shortLabel hpf22_Sclerotome
+longLabel hpf22_Sclerotome
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Slow_muscle_cells.bw
+shortLabel hpf22_Slow_muscle_cells
+longLabel hpf22_Slow_muscle_cells
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Tailbud_mesoderm.bw
+shortLabel hpf22_Tailbud_mesoderm
+longLabel hpf22_Tailbud_mesoderm
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Tailbud_spinal_cord.bw
+shortLabel hpf22_Tailbud_spinal_cord
+longLabel hpf22_Tailbud_spinal_cord
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Telencephalon.bw
+shortLabel hpf22_Telencephalon
+longLabel hpf22_Telencephalon
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_Vessel_progenitor
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_Vessel_progenitor.bw
+shortLabel hpf22_Vessel_progenitor
+longLabel hpf22_Vessel_progenitor
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf22_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf22/hpf22_YSL.bw
+shortLabel hpf22_YSL
+longLabel hpf22_YSL
+group hpf22
+type bigWig
+autoScale on
+visibility hide
+priority 14
+
+track hpf24_Cardiac_muscle
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Cardiac_muscle.bw
+shortLabel hpf24_Cardiac_muscle
+longLabel hpf24_Cardiac_muscle
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Cardiac_neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Cardiac_neural_crest.bw
+shortLabel hpf24_Cardiac_neural_crest
+longLabel hpf24_Cardiac_neural_crest
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Cranial_ganglia.bw
+shortLabel hpf24_Cranial_ganglia
+longLabel hpf24_Cranial_ganglia
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Cranial_neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Cranial_neural_crest.bw
+shortLabel hpf24_Cranial_neural_crest
+longLabel hpf24_Cranial_neural_crest
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Diencephalon.bw
+shortLabel hpf24_Diencephalon
+longLabel hpf24_Diencephalon
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Differentiating_neurons.bw
+shortLabel hpf24_Differentiating_neurons
+longLabel hpf24_Differentiating_neurons
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Differentiating_neurons_dlx1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Differentiating_neurons_dlx1a.bw
+shortLabel hpf24_Differentiating_neurons_dlx1a
+longLabel hpf24_Differentiating_neurons_dlx1a
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Differentiating_neurons_eomes
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Differentiating_neurons_eomes.bw
+shortLabel hpf24_Differentiating_neurons_eomes
+longLabel hpf24_Differentiating_neurons_eomes
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Endothelial.bw
+shortLabel hpf24_Endothelial
+longLabel hpf24_Endothelial
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Epidermal.bw
+shortLabel hpf24_Epidermal
+longLabel hpf24_Epidermal
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Epidermal_foxi3a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Epidermal_foxi3a.bw
+shortLabel hpf24_Epidermal_foxi3a
+longLabel hpf24_Epidermal_foxi3a
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Erythroid
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Erythroid.bw
+shortLabel hpf24_Erythroid
+longLabel hpf24_Erythroid
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Fast_muscle_cells.bw
+shortLabel hpf24_Fast_muscle_cells
+longLabel hpf24_Fast_muscle_cells
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Floorplate.bw
+shortLabel hpf24_Floorplate
+longLabel hpf24_Floorplate
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Gut.bw
+shortLabel hpf24_Gut
+longLabel hpf24_Gut
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Hatching_gland.bw
+shortLabel hpf24_Hatching_gland
+longLabel hpf24_Hatching_gland
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Heart_field.bw
+shortLabel hpf24_Heart_field
+longLabel hpf24_Heart_field
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Hindbrain_dorsal.bw
+shortLabel hpf24_Hindbrain_dorsal
+longLabel hpf24_Hindbrain_dorsal
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Hindbrain_ventral.bw
+shortLabel hpf24_Hindbrain_ventral
+longLabel hpf24_Hindbrain_ventral
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Immune_cells.bw
+shortLabel hpf24_Immune_cells
+longLabel hpf24_Immune_cells
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Lateral_line_primordium.bw
+shortLabel hpf24_Lateral_line_primordium
+longLabel hpf24_Lateral_line_primordium
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Lens.bw
+shortLabel hpf24_Lens
+longLabel hpf24_Lens
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Midbrain.bw
+shortLabel hpf24_Midbrain
+longLabel hpf24_Midbrain
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Midbrain_ventral.bw
+shortLabel hpf24_Midbrain_ventral
+longLabel hpf24_Midbrain_ventral
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Myotome.bw
+shortLabel hpf24_Myotome
+longLabel hpf24_Myotome
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Neural_crest.bw
+shortLabel hpf24_Neural_crest
+longLabel hpf24_Neural_crest
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Notochord.bw
+shortLabel hpf24_Notochord
+longLabel hpf24_Notochord
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Olfactory_placode.bw
+shortLabel hpf24_Olfactory_placode
+longLabel hpf24_Olfactory_placode
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Optic_cup
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Optic_cup.bw
+shortLabel hpf24_Optic_cup
+longLabel hpf24_Optic_cup
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Otic_placode.bw
+shortLabel hpf24_Otic_placode
+longLabel hpf24_Otic_placode
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Pectoral_fin_field.bw
+shortLabel hpf24_Pectoral_fin_field
+longLabel hpf24_Pectoral_fin_field
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Periderm.bw
+shortLabel hpf24_Periderm
+longLabel hpf24_Periderm
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Pharyngeal_arch.bw
+shortLabel hpf24_Pharyngeal_arch
+longLabel hpf24_Pharyngeal_arch
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Pharyngeal_epidermis.bw
+shortLabel hpf24_Pharyngeal_epidermis
+longLabel hpf24_Pharyngeal_epidermis
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Posterior_ventral_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Posterior_ventral_phox2bb.bw
+shortLabel hpf24_Posterior_ventral_phox2bb
+longLabel hpf24_Posterior_ventral_phox2bb
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Pronephric_duct.bw
+shortLabel hpf24_Pronephric_duct
+longLabel hpf24_Pronephric_duct
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Retina_neuroblasts
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Retina_neuroblasts.bw
+shortLabel hpf24_Retina_neuroblasts
+longLabel hpf24_Retina_neuroblasts
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Retina_pigmented_epithelium.bw
+shortLabel hpf24_Retina_pigmented_epithelium
+longLabel hpf24_Retina_pigmented_epithelium
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Roofplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Roofplate.bw
+shortLabel hpf24_Roofplate
+longLabel hpf24_Roofplate
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Sclerotome.bw
+shortLabel hpf24_Sclerotome
+longLabel hpf24_Sclerotome
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Slow_muscle_cells.bw
+shortLabel hpf24_Slow_muscle_cells
+longLabel hpf24_Slow_muscle_cells
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Tailbud_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Tailbud_mesoderm.bw
+shortLabel hpf24_Tailbud_mesoderm
+longLabel hpf24_Tailbud_mesoderm
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Tailbud_spinal_cord.bw
+shortLabel hpf24_Tailbud_spinal_cord
+longLabel hpf24_Tailbud_spinal_cord
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Telencephalon.bw
+shortLabel hpf24_Telencephalon
+longLabel hpf24_Telencephalon
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_Vessel_progenitor
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_Vessel_progenitor.bw
+shortLabel hpf24_Vessel_progenitor
+longLabel hpf24_Vessel_progenitor
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf24_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf24/hpf24_YSL.bw
+shortLabel hpf24_YSL
+longLabel hpf24_YSL
+group hpf24
+type bigWig
+autoScale on
+visibility hide
+priority 15
+
+track hpf30_Cardiac_muscle
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Cardiac_muscle.bw
+shortLabel hpf30_Cardiac_muscle
+longLabel hpf30_Cardiac_muscle
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Cranial_ganglia.bw
+shortLabel hpf30_Cranial_ganglia
+longLabel hpf30_Cranial_ganglia
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Diencephalon.bw
+shortLabel hpf30_Diencephalon
+longLabel hpf30_Diencephalon
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Differentiating_neurons.bw
+shortLabel hpf30_Differentiating_neurons
+longLabel hpf30_Differentiating_neurons
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Differentiating_neurons_dlx1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Differentiating_neurons_dlx1a.bw
+shortLabel hpf30_Differentiating_neurons_dlx1a
+longLabel hpf30_Differentiating_neurons_dlx1a
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Differentiating_neurons_eomes
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Differentiating_neurons_eomes.bw
+shortLabel hpf30_Differentiating_neurons_eomes
+longLabel hpf30_Differentiating_neurons_eomes
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Endothelial.bw
+shortLabel hpf30_Endothelial
+longLabel hpf30_Endothelial
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Epidermal.bw
+shortLabel hpf30_Epidermal
+longLabel hpf30_Epidermal
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Epidermal_foxi3a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Epidermal_foxi3a.bw
+shortLabel hpf30_Epidermal_foxi3a
+longLabel hpf30_Epidermal_foxi3a
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Erythroid
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Erythroid.bw
+shortLabel hpf30_Erythroid
+longLabel hpf30_Erythroid
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Fast_muscle_cells.bw
+shortLabel hpf30_Fast_muscle_cells
+longLabel hpf30_Fast_muscle_cells
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Floorplate.bw
+shortLabel hpf30_Floorplate
+longLabel hpf30_Floorplate
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Gut.bw
+shortLabel hpf30_Gut
+longLabel hpf30_Gut
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Hatching_gland.bw
+shortLabel hpf30_Hatching_gland
+longLabel hpf30_Hatching_gland
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Heart_field.bw
+shortLabel hpf30_Heart_field
+longLabel hpf30_Heart_field
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Hindbrain_dorsal.bw
+shortLabel hpf30_Hindbrain_dorsal
+longLabel hpf30_Hindbrain_dorsal
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Hindbrain_ventral.bw
+shortLabel hpf30_Hindbrain_ventral
+longLabel hpf30_Hindbrain_ventral
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Immune_cells.bw
+shortLabel hpf30_Immune_cells
+longLabel hpf30_Immune_cells
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Lateral_line_primordium.bw
+shortLabel hpf30_Lateral_line_primordium
+longLabel hpf30_Lateral_line_primordium
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Lens.bw
+shortLabel hpf30_Lens
+longLabel hpf30_Lens
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Midbrain.bw
+shortLabel hpf30_Midbrain
+longLabel hpf30_Midbrain
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Midbrain_ventral.bw
+shortLabel hpf30_Midbrain_ventral
+longLabel hpf30_Midbrain_ventral
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Myotome.bw
+shortLabel hpf30_Myotome
+longLabel hpf30_Myotome
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Neural_crest.bw
+shortLabel hpf30_Neural_crest
+longLabel hpf30_Neural_crest
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Neural_crest_derived_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Neural_crest_derived_mesoderm.bw
+shortLabel hpf30_Neural_crest_derived_mesoderm
+longLabel hpf30_Neural_crest_derived_mesoderm
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Notochord.bw
+shortLabel hpf30_Notochord
+longLabel hpf30_Notochord
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Olfactory_placode.bw
+shortLabel hpf30_Olfactory_placode
+longLabel hpf30_Olfactory_placode
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Otic_placode.bw
+shortLabel hpf30_Otic_placode
+longLabel hpf30_Otic_placode
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Pectoral_fin_field.bw
+shortLabel hpf30_Pectoral_fin_field
+longLabel hpf30_Pectoral_fin_field
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Periderm.bw
+shortLabel hpf30_Periderm
+longLabel hpf30_Periderm
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Pharyngeal_arch.bw
+shortLabel hpf30_Pharyngeal_arch
+longLabel hpf30_Pharyngeal_arch
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Pharyngeal_epidermis.bw
+shortLabel hpf30_Pharyngeal_epidermis
+longLabel hpf30_Pharyngeal_epidermis
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Pigment_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Pigment_cells.bw
+shortLabel hpf30_Pigment_cells
+longLabel hpf30_Pigment_cells
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Posterior_ventral_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Posterior_ventral_phox2bb.bw
+shortLabel hpf30_Posterior_ventral_phox2bb
+longLabel hpf30_Posterior_ventral_phox2bb
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Pronephric_duct.bw
+shortLabel hpf30_Pronephric_duct
+longLabel hpf30_Pronephric_duct
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Retina_neuroblasts
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Retina_neuroblasts.bw
+shortLabel hpf30_Retina_neuroblasts
+longLabel hpf30_Retina_neuroblasts
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Retina_neurogenesis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Retina_neurogenesis.bw
+shortLabel hpf30_Retina_neurogenesis
+longLabel hpf30_Retina_neurogenesis
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Retina_pigmented_epithelium.bw
+shortLabel hpf30_Retina_pigmented_epithelium
+longLabel hpf30_Retina_pigmented_epithelium
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Roofplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Roofplate.bw
+shortLabel hpf30_Roofplate
+longLabel hpf30_Roofplate
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Sclerotome.bw
+shortLabel hpf30_Sclerotome
+longLabel hpf30_Sclerotome
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Slow_muscle_cells.bw
+shortLabel hpf30_Slow_muscle_cells
+longLabel hpf30_Slow_muscle_cells
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Tailbud_spinal_cord.bw
+shortLabel hpf30_Tailbud_spinal_cord
+longLabel hpf30_Tailbud_spinal_cord
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Telencephalon.bw
+shortLabel hpf30_Telencephalon
+longLabel hpf30_Telencephalon
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_Vessel_progenitor
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_Vessel_progenitor.bw
+shortLabel hpf30_Vessel_progenitor
+longLabel hpf30_Vessel_progenitor
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf30_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf30/hpf30_YSL.bw
+shortLabel hpf30_YSL
+longLabel hpf30_YSL
+group hpf30
+type bigWig
+autoScale on
+visibility hide
+priority 16
+
+track hpf34_Cardiac_muscle
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Cardiac_muscle.bw
+shortLabel hpf34_Cardiac_muscle
+longLabel hpf34_Cardiac_muscle
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Cranial_ganglia.bw
+shortLabel hpf34_Cranial_ganglia
+longLabel hpf34_Cranial_ganglia
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Diencephalon.bw
+shortLabel hpf34_Diencephalon
+longLabel hpf34_Diencephalon
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Differentiating_neurons.bw
+shortLabel hpf34_Differentiating_neurons
+longLabel hpf34_Differentiating_neurons
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Differentiating_neurons_dlx1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Differentiating_neurons_dlx1a.bw
+shortLabel hpf34_Differentiating_neurons_dlx1a
+longLabel hpf34_Differentiating_neurons_dlx1a
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Differentiating_neurons_eomes
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Differentiating_neurons_eomes.bw
+shortLabel hpf34_Differentiating_neurons_eomes
+longLabel hpf34_Differentiating_neurons_eomes
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Endothelial.bw
+shortLabel hpf34_Endothelial
+longLabel hpf34_Endothelial
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Epidermal.bw
+shortLabel hpf34_Epidermal
+longLabel hpf34_Epidermal
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Erythroid
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Erythroid.bw
+shortLabel hpf34_Erythroid
+longLabel hpf34_Erythroid
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Fast_muscle_cells.bw
+shortLabel hpf34_Fast_muscle_cells
+longLabel hpf34_Fast_muscle_cells
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Floorplate.bw
+shortLabel hpf34_Floorplate
+longLabel hpf34_Floorplate
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Gut.bw
+shortLabel hpf34_Gut
+longLabel hpf34_Gut
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Hatching_gland.bw
+shortLabel hpf34_Hatching_gland
+longLabel hpf34_Hatching_gland
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Heart_field.bw
+shortLabel hpf34_Heart_field
+longLabel hpf34_Heart_field
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Hindbrain_dorsal.bw
+shortLabel hpf34_Hindbrain_dorsal
+longLabel hpf34_Hindbrain_dorsal
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Hindbrain_ventral.bw
+shortLabel hpf34_Hindbrain_ventral
+longLabel hpf34_Hindbrain_ventral
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Immune_cells.bw
+shortLabel hpf34_Immune_cells
+longLabel hpf34_Immune_cells
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Lateral_line_primordium.bw
+shortLabel hpf34_Lateral_line_primordium
+longLabel hpf34_Lateral_line_primordium
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Lens.bw
+shortLabel hpf34_Lens
+longLabel hpf34_Lens
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Midbrain.bw
+shortLabel hpf34_Midbrain
+longLabel hpf34_Midbrain
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Midbrain_ventral.bw
+shortLabel hpf34_Midbrain_ventral
+longLabel hpf34_Midbrain_ventral
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Myoblast
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Myoblast.bw
+shortLabel hpf34_Myoblast
+longLabel hpf34_Myoblast
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Myotome.bw
+shortLabel hpf34_Myotome
+longLabel hpf34_Myotome
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Neural_crest.bw
+shortLabel hpf34_Neural_crest
+longLabel hpf34_Neural_crest
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Neural_crest_derived_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Neural_crest_derived_mesoderm.bw
+shortLabel hpf34_Neural_crest_derived_mesoderm
+longLabel hpf34_Neural_crest_derived_mesoderm
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Notochord.bw
+shortLabel hpf34_Notochord
+longLabel hpf34_Notochord
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Olfactory_placode.bw
+shortLabel hpf34_Olfactory_placode
+longLabel hpf34_Olfactory_placode
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Otic_placode.bw
+shortLabel hpf34_Otic_placode
+longLabel hpf34_Otic_placode
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Pectoral_fin_field.bw
+shortLabel hpf34_Pectoral_fin_field
+longLabel hpf34_Pectoral_fin_field
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Periderm.bw
+shortLabel hpf34_Periderm
+longLabel hpf34_Periderm
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Pharyngeal_arch.bw
+shortLabel hpf34_Pharyngeal_arch
+longLabel hpf34_Pharyngeal_arch
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Pharyngeal_epidermis.bw
+shortLabel hpf34_Pharyngeal_epidermis
+longLabel hpf34_Pharyngeal_epidermis
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Pigment_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Pigment_cells.bw
+shortLabel hpf34_Pigment_cells
+longLabel hpf34_Pigment_cells
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Posterior_ventral_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Posterior_ventral_phox2bb.bw
+shortLabel hpf34_Posterior_ventral_phox2bb
+longLabel hpf34_Posterior_ventral_phox2bb
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Pronephric_duct.bw
+shortLabel hpf34_Pronephric_duct
+longLabel hpf34_Pronephric_duct
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Retina_neuroblasts
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Retina_neuroblasts.bw
+shortLabel hpf34_Retina_neuroblasts
+longLabel hpf34_Retina_neuroblasts
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Retina_neurogenesis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Retina_neurogenesis.bw
+shortLabel hpf34_Retina_neurogenesis
+longLabel hpf34_Retina_neurogenesis
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Retina_pigmented_epithelium.bw
+shortLabel hpf34_Retina_pigmented_epithelium
+longLabel hpf34_Retina_pigmented_epithelium
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Roofplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Roofplate.bw
+shortLabel hpf34_Roofplate
+longLabel hpf34_Roofplate
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Sclerotome.bw
+shortLabel hpf34_Sclerotome
+longLabel hpf34_Sclerotome
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Slow_muscle_cells.bw
+shortLabel hpf34_Slow_muscle_cells
+longLabel hpf34_Slow_muscle_cells
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Tailbud_spinal_cord.bw
+shortLabel hpf34_Tailbud_spinal_cord
+longLabel hpf34_Tailbud_spinal_cord
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Telencephalon.bw
+shortLabel hpf34_Telencephalon
+longLabel hpf34_Telencephalon
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_Vessel_progenitor
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_Vessel_progenitor.bw
+shortLabel hpf34_Vessel_progenitor
+longLabel hpf34_Vessel_progenitor
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf34_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf34/hpf34_YSL.bw
+shortLabel hpf34_YSL
+longLabel hpf34_YSL
+group hpf34
+type bigWig
+autoScale on
+visibility hide
+priority 17
+
+track hpf38_Cardiac_muscle
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Cardiac_muscle.bw
+shortLabel hpf38_Cardiac_muscle
+longLabel hpf38_Cardiac_muscle
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Cranial_ganglia.bw
+shortLabel hpf38_Cranial_ganglia
+longLabel hpf38_Cranial_ganglia
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Diencephalon.bw
+shortLabel hpf38_Diencephalon
+longLabel hpf38_Diencephalon
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Differentiating_neurons.bw
+shortLabel hpf38_Differentiating_neurons
+longLabel hpf38_Differentiating_neurons
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Differentiating_neurons_dlx1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Differentiating_neurons_dlx1a.bw
+shortLabel hpf38_Differentiating_neurons_dlx1a
+longLabel hpf38_Differentiating_neurons_dlx1a
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Differentiating_neurons_eomes
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Differentiating_neurons_eomes.bw
+shortLabel hpf38_Differentiating_neurons_eomes
+longLabel hpf38_Differentiating_neurons_eomes
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Endothelial.bw
+shortLabel hpf38_Endothelial
+longLabel hpf38_Endothelial
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Epidermal.bw
+shortLabel hpf38_Epidermal
+longLabel hpf38_Epidermal
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Erythroid
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Erythroid.bw
+shortLabel hpf38_Erythroid
+longLabel hpf38_Erythroid
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Fast_muscle_cells.bw
+shortLabel hpf38_Fast_muscle_cells
+longLabel hpf38_Fast_muscle_cells
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Floorplate.bw
+shortLabel hpf38_Floorplate
+longLabel hpf38_Floorplate
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Gut.bw
+shortLabel hpf38_Gut
+longLabel hpf38_Gut
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Hatching_gland.bw
+shortLabel hpf38_Hatching_gland
+longLabel hpf38_Hatching_gland
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Heart_field.bw
+shortLabel hpf38_Heart_field
+longLabel hpf38_Heart_field
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Hindbrain_dorsal.bw
+shortLabel hpf38_Hindbrain_dorsal
+longLabel hpf38_Hindbrain_dorsal
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Hindbrain_ventral.bw
+shortLabel hpf38_Hindbrain_ventral
+longLabel hpf38_Hindbrain_ventral
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Immune_cells.bw
+shortLabel hpf38_Immune_cells
+longLabel hpf38_Immune_cells
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Lateral_line_primordium.bw
+shortLabel hpf38_Lateral_line_primordium
+longLabel hpf38_Lateral_line_primordium
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Lens.bw
+shortLabel hpf38_Lens
+longLabel hpf38_Lens
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Midbrain.bw
+shortLabel hpf38_Midbrain
+longLabel hpf38_Midbrain
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Midbrain_ventral.bw
+shortLabel hpf38_Midbrain_ventral
+longLabel hpf38_Midbrain_ventral
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Myoblast
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Myoblast.bw
+shortLabel hpf38_Myoblast
+longLabel hpf38_Myoblast
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Myotome.bw
+shortLabel hpf38_Myotome
+longLabel hpf38_Myotome
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Neural_crest.bw
+shortLabel hpf38_Neural_crest
+longLabel hpf38_Neural_crest
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Neural_crest_derived_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Neural_crest_derived_mesoderm.bw
+shortLabel hpf38_Neural_crest_derived_mesoderm
+longLabel hpf38_Neural_crest_derived_mesoderm
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Notochord.bw
+shortLabel hpf38_Notochord
+longLabel hpf38_Notochord
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Olfactory_placode.bw
+shortLabel hpf38_Olfactory_placode
+longLabel hpf38_Olfactory_placode
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Otic_placode.bw
+shortLabel hpf38_Otic_placode
+longLabel hpf38_Otic_placode
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Pectoral_fin_field.bw
+shortLabel hpf38_Pectoral_fin_field
+longLabel hpf38_Pectoral_fin_field
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Periderm.bw
+shortLabel hpf38_Periderm
+longLabel hpf38_Periderm
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Pharyngeal_arch.bw
+shortLabel hpf38_Pharyngeal_arch
+longLabel hpf38_Pharyngeal_arch
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Pharyngeal_epidermis.bw
+shortLabel hpf38_Pharyngeal_epidermis
+longLabel hpf38_Pharyngeal_epidermis
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Pigment_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Pigment_cells.bw
+shortLabel hpf38_Pigment_cells
+longLabel hpf38_Pigment_cells
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Posterior_ventral_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Posterior_ventral_phox2bb.bw
+shortLabel hpf38_Posterior_ventral_phox2bb
+longLabel hpf38_Posterior_ventral_phox2bb
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Pronephric_duct.bw
+shortLabel hpf38_Pronephric_duct
+longLabel hpf38_Pronephric_duct
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Retina_Photoreceptor_precursor_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Retina_Photoreceptor_precursor_cells.bw
+shortLabel hpf38_Retina_Photoreceptor_precursor_cells
+longLabel hpf38_Retina_Photoreceptor_precursor_cells
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Retina_RGC
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Retina_RGC.bw
+shortLabel hpf38_Retina_RGC
+longLabel hpf38_Retina_RGC
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Retina_neuroblasts
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Retina_neuroblasts.bw
+shortLabel hpf38_Retina_neuroblasts
+longLabel hpf38_Retina_neuroblasts
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Retina_neurogenesis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Retina_neurogenesis.bw
+shortLabel hpf38_Retina_neurogenesis
+longLabel hpf38_Retina_neurogenesis
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Retina_pigmented_epithelium.bw
+shortLabel hpf38_Retina_pigmented_epithelium
+longLabel hpf38_Retina_pigmented_epithelium
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Roofplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Roofplate.bw
+shortLabel hpf38_Roofplate
+longLabel hpf38_Roofplate
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Sclerotome.bw
+shortLabel hpf38_Sclerotome
+longLabel hpf38_Sclerotome
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Slow_muscle_cells.bw
+shortLabel hpf38_Slow_muscle_cells
+longLabel hpf38_Slow_muscle_cells
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Tailbud_spinal_cord.bw
+shortLabel hpf38_Tailbud_spinal_cord
+longLabel hpf38_Tailbud_spinal_cord
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Telencephalon.bw
+shortLabel hpf38_Telencephalon
+longLabel hpf38_Telencephalon
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_Vessel_progenitor
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_Vessel_progenitor.bw
+shortLabel hpf38_Vessel_progenitor
+longLabel hpf38_Vessel_progenitor
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf38_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf38/hpf38_YSL.bw
+shortLabel hpf38_YSL
+longLabel hpf38_YSL
+group hpf38
+type bigWig
+autoScale on
+visibility hide
+priority 18
+
+track hpf42_Cardiac_muscle
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Cardiac_muscle.bw
+shortLabel hpf42_Cardiac_muscle
+longLabel hpf42_Cardiac_muscle
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Cranial_ganglia.bw
+shortLabel hpf42_Cranial_ganglia
+longLabel hpf42_Cranial_ganglia
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Diencephalon.bw
+shortLabel hpf42_Diencephalon
+longLabel hpf42_Diencephalon
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Differentiating_neurons.bw
+shortLabel hpf42_Differentiating_neurons
+longLabel hpf42_Differentiating_neurons
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Differentiating_neurons_dlx1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Differentiating_neurons_dlx1a.bw
+shortLabel hpf42_Differentiating_neurons_dlx1a
+longLabel hpf42_Differentiating_neurons_dlx1a
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Differentiating_neurons_eomes
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Differentiating_neurons_eomes.bw
+shortLabel hpf42_Differentiating_neurons_eomes
+longLabel hpf42_Differentiating_neurons_eomes
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Endothelial.bw
+shortLabel hpf42_Endothelial
+longLabel hpf42_Endothelial
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Epidermal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Epidermal.bw
+shortLabel hpf42_Epidermal
+longLabel hpf42_Epidermal
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Erythroid
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Erythroid.bw
+shortLabel hpf42_Erythroid
+longLabel hpf42_Erythroid
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Fast_muscle_cells.bw
+shortLabel hpf42_Fast_muscle_cells
+longLabel hpf42_Fast_muscle_cells
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Floorplate.bw
+shortLabel hpf42_Floorplate
+longLabel hpf42_Floorplate
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Gut.bw
+shortLabel hpf42_Gut
+longLabel hpf42_Gut
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Hatching_gland.bw
+shortLabel hpf42_Hatching_gland
+longLabel hpf42_Hatching_gland
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Heart_field.bw
+shortLabel hpf42_Heart_field
+longLabel hpf42_Heart_field
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Hindbrain_dorsal.bw
+shortLabel hpf42_Hindbrain_dorsal
+longLabel hpf42_Hindbrain_dorsal
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Hindbrain_ventral.bw
+shortLabel hpf42_Hindbrain_ventral
+longLabel hpf42_Hindbrain_ventral
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Immune_cells.bw
+shortLabel hpf42_Immune_cells
+longLabel hpf42_Immune_cells
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Lateral_line_primordium.bw
+shortLabel hpf42_Lateral_line_primordium
+longLabel hpf42_Lateral_line_primordium
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Lens.bw
+shortLabel hpf42_Lens
+longLabel hpf42_Lens
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Midbrain.bw
+shortLabel hpf42_Midbrain
+longLabel hpf42_Midbrain
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Midbrain_ventral.bw
+shortLabel hpf42_Midbrain_ventral
+longLabel hpf42_Midbrain_ventral
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Myoblast
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Myoblast.bw
+shortLabel hpf42_Myoblast
+longLabel hpf42_Myoblast
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Myotome.bw
+shortLabel hpf42_Myotome
+longLabel hpf42_Myotome
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Neural_crest.bw
+shortLabel hpf42_Neural_crest
+longLabel hpf42_Neural_crest
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Neural_crest_derived_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Neural_crest_derived_mesoderm.bw
+shortLabel hpf42_Neural_crest_derived_mesoderm
+longLabel hpf42_Neural_crest_derived_mesoderm
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Notochord.bw
+shortLabel hpf42_Notochord
+longLabel hpf42_Notochord
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Olfactory_placode.bw
+shortLabel hpf42_Olfactory_placode
+longLabel hpf42_Olfactory_placode
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Otic_placode.bw
+shortLabel hpf42_Otic_placode
+longLabel hpf42_Otic_placode
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Pectoral_fin_field.bw
+shortLabel hpf42_Pectoral_fin_field
+longLabel hpf42_Pectoral_fin_field
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Periderm.bw
+shortLabel hpf42_Periderm
+longLabel hpf42_Periderm
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Pharyngeal_arch.bw
+shortLabel hpf42_Pharyngeal_arch
+longLabel hpf42_Pharyngeal_arch
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Pharyngeal_epidermis.bw
+shortLabel hpf42_Pharyngeal_epidermis
+longLabel hpf42_Pharyngeal_epidermis
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Pigment_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Pigment_cells.bw
+shortLabel hpf42_Pigment_cells
+longLabel hpf42_Pigment_cells
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Posterior_ventral_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Posterior_ventral_phox2bb.bw
+shortLabel hpf42_Posterior_ventral_phox2bb
+longLabel hpf42_Posterior_ventral_phox2bb
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Pronephric_duct.bw
+shortLabel hpf42_Pronephric_duct
+longLabel hpf42_Pronephric_duct
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Retina_Photoreceptor_precursor_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Retina_Photoreceptor_precursor_cells.bw
+shortLabel hpf42_Retina_Photoreceptor_precursor_cells
+longLabel hpf42_Retina_Photoreceptor_precursor_cells
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Retina_RGC
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Retina_RGC.bw
+shortLabel hpf42_Retina_RGC
+longLabel hpf42_Retina_RGC
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Retina_neuroblasts
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Retina_neuroblasts.bw
+shortLabel hpf42_Retina_neuroblasts
+longLabel hpf42_Retina_neuroblasts
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Retina_neurogenesis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Retina_neurogenesis.bw
+shortLabel hpf42_Retina_neurogenesis
+longLabel hpf42_Retina_neurogenesis
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Retina_pigmented_epithelium.bw
+shortLabel hpf42_Retina_pigmented_epithelium
+longLabel hpf42_Retina_pigmented_epithelium
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Roofplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Roofplate.bw
+shortLabel hpf42_Roofplate
+longLabel hpf42_Roofplate
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Sclerotome.bw
+shortLabel hpf42_Sclerotome
+longLabel hpf42_Sclerotome
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Slow_muscle_cell
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Slow_muscle_cell.bw
+shortLabel hpf42_Slow_muscle_cell
+longLabel hpf42_Slow_muscle_cell
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Tailbud_spinal_cord.bw
+shortLabel hpf42_Tailbud_spinal_cord
+longLabel hpf42_Tailbud_spinal_cord
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Telencephalon.bw
+shortLabel hpf42_Telencephalon
+longLabel hpf42_Telencephalon
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_Vessel_progenitor
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_Vessel_progenitor.bw
+shortLabel hpf42_Vessel_progenitor
+longLabel hpf42_Vessel_progenitor
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf42_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf42/hpf42_YSL.bw
+shortLabel hpf42_YSL
+longLabel hpf42_YSL
+group hpf42
+type bigWig
+autoScale on
+visibility hide
+priority 19
+
+track hpf48_Cardiac_muscle
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Cardiac_muscle.bw
+shortLabel hpf48_Cardiac_muscle
+longLabel hpf48_Cardiac_muscle
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Cranial_ganglia.bw
+shortLabel hpf48_Cranial_ganglia
+longLabel hpf48_Cranial_ganglia
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Diencephalon.bw
+shortLabel hpf48_Diencephalon
+longLabel hpf48_Diencephalon
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Differentiating_neurons.bw
+shortLabel hpf48_Differentiating_neurons
+longLabel hpf48_Differentiating_neurons
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Differentiating_neurons_dlx1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Differentiating_neurons_dlx1a.bw
+shortLabel hpf48_Differentiating_neurons_dlx1a
+longLabel hpf48_Differentiating_neurons_dlx1a
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Differentiating_neurons_eomes
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Differentiating_neurons_eomes.bw
+shortLabel hpf48_Differentiating_neurons_eomes
+longLabel hpf48_Differentiating_neurons_eomes
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Differentiating_neurons_ganglion
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Differentiating_neurons_ganglion.bw
+shortLabel hpf48_Differentiating_neurons_ganglion
+longLabel hpf48_Differentiating_neurons_ganglion
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Differentiating_neurons_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Differentiating_neurons_phox2bb.bw
+shortLabel hpf48_Differentiating_neurons_phox2bb
+longLabel hpf48_Differentiating_neurons_phox2bb
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Endothelial.bw
+shortLabel hpf48_Endothelial
+longLabel hpf48_Endothelial
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Erythroid
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Erythroid.bw
+shortLabel hpf48_Erythroid
+longLabel hpf48_Erythroid
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Fast_muscle_cells.bw
+shortLabel hpf48_Fast_muscle_cells
+longLabel hpf48_Fast_muscle_cells
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Floorplate.bw
+shortLabel hpf48_Floorplate
+longLabel hpf48_Floorplate
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Gut.bw
+shortLabel hpf48_Gut
+longLabel hpf48_Gut
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Hatching_gland.bw
+shortLabel hpf48_Hatching_gland
+longLabel hpf48_Hatching_gland
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Heart_field.bw
+shortLabel hpf48_Heart_field
+longLabel hpf48_Heart_field
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Hindbrain_dorsal.bw
+shortLabel hpf48_Hindbrain_dorsal
+longLabel hpf48_Hindbrain_dorsal
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Hindbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Hindbrain_ventral.bw
+shortLabel hpf48_Hindbrain_ventral
+longLabel hpf48_Hindbrain_ventral
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Immune_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Immune_cells.bw
+shortLabel hpf48_Immune_cells
+longLabel hpf48_Immune_cells
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Lateral_line_primordium.bw
+shortLabel hpf48_Lateral_line_primordium
+longLabel hpf48_Lateral_line_primordium
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Lens.bw
+shortLabel hpf48_Lens
+longLabel hpf48_Lens
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Midbrain.bw
+shortLabel hpf48_Midbrain
+longLabel hpf48_Midbrain
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Midbrain_ventral.bw
+shortLabel hpf48_Midbrain_ventral
+longLabel hpf48_Midbrain_ventral
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Myoblast
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Myoblast.bw
+shortLabel hpf48_Myoblast
+longLabel hpf48_Myoblast
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Myotome.bw
+shortLabel hpf48_Myotome
+longLabel hpf48_Myotome
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Neural_crest.bw
+shortLabel hpf48_Neural_crest
+longLabel hpf48_Neural_crest
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Neural_crest_derived_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Neural_crest_derived_mesoderm.bw
+shortLabel hpf48_Neural_crest_derived_mesoderm
+longLabel hpf48_Neural_crest_derived_mesoderm
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Notochord.bw
+shortLabel hpf48_Notochord
+longLabel hpf48_Notochord
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Olfactory_placode.bw
+shortLabel hpf48_Olfactory_placode
+longLabel hpf48_Olfactory_placode
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Otic_placode.bw
+shortLabel hpf48_Otic_placode
+longLabel hpf48_Otic_placode
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Pectoral_fin_field.bw
+shortLabel hpf48_Pectoral_fin_field
+longLabel hpf48_Pectoral_fin_field
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Periderm.bw
+shortLabel hpf48_Periderm
+longLabel hpf48_Periderm
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Pharyngeal_arch.bw
+shortLabel hpf48_Pharyngeal_arch
+longLabel hpf48_Pharyngeal_arch
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Pharyngeal_epidermis.bw
+shortLabel hpf48_Pharyngeal_epidermis
+longLabel hpf48_Pharyngeal_epidermis
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Pigment_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Pigment_cells.bw
+shortLabel hpf48_Pigment_cells
+longLabel hpf48_Pigment_cells
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Pronephric_duct.bw
+shortLabel hpf48_Pronephric_duct
+longLabel hpf48_Pronephric_duct
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_Amacrine
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_Amacrine.bw
+shortLabel hpf48_Retina_Amacrine
+longLabel hpf48_Retina_Amacrine
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_Cone_bipolar_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_Cone_bipolar_cells.bw
+shortLabel hpf48_Retina_Cone_bipolar_cells
+longLabel hpf48_Retina_Cone_bipolar_cells
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_Horizontal_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_Horizontal_cells.bw
+shortLabel hpf48_Retina_Horizontal_cells
+longLabel hpf48_Retina_Horizontal_cells
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_Muller_glia_progenitors
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_Muller_glia_progenitors.bw
+shortLabel hpf48_Retina_Muller_glia_progenitors
+longLabel hpf48_Retina_Muller_glia_progenitors
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_Photoreceptor_precursor_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_Photoreceptor_precursor_cells.bw
+shortLabel hpf48_Retina_Photoreceptor_precursor_cells
+longLabel hpf48_Retina_Photoreceptor_precursor_cells
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_RGC
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_RGC.bw
+shortLabel hpf48_Retina_RGC
+longLabel hpf48_Retina_RGC
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_neuroblasts
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_neuroblasts.bw
+shortLabel hpf48_Retina_neuroblasts
+longLabel hpf48_Retina_neuroblasts
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_neurogenesis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_neurogenesis.bw
+shortLabel hpf48_Retina_neurogenesis
+longLabel hpf48_Retina_neurogenesis
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Retina_pigmented_epithelium.bw
+shortLabel hpf48_Retina_pigmented_epithelium
+longLabel hpf48_Retina_pigmented_epithelium
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Roofplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Roofplate.bw
+shortLabel hpf48_Roofplate
+longLabel hpf48_Roofplate
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Sclerotome.bw
+shortLabel hpf48_Sclerotome
+longLabel hpf48_Sclerotome
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Slow_muscle_cells.bw
+shortLabel hpf48_Slow_muscle_cells
+longLabel hpf48_Slow_muscle_cells
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Tailbud_spinal_cord.bw
+shortLabel hpf48_Tailbud_spinal_cord
+longLabel hpf48_Tailbud_spinal_cord
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Telencephalon.bw
+shortLabel hpf48_Telencephalon
+longLabel hpf48_Telencephalon
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_Vessel_progenitor
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_Vessel_progenitor.bw
+shortLabel hpf48_Vessel_progenitor
+longLabel hpf48_Vessel_progenitor
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf48_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf48/hpf48_YSL.bw
+shortLabel hpf48_YSL
+longLabel hpf48_YSL
+group hpf48
+type bigWig
+autoScale on
+visibility hide
+priority 20
+
+track hpf72_Cardiac_muscle
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Cardiac_muscle.bw
+shortLabel hpf72_Cardiac_muscle
+longLabel hpf72_Cardiac_muscle
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Cranial_ganglia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Cranial_ganglia.bw
+shortLabel hpf72_Cranial_ganglia
+longLabel hpf72_Cranial_ganglia
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Diencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Diencephalon.bw
+shortLabel hpf72_Diencephalon
+longLabel hpf72_Diencephalon
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Differentiating_neurons
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Differentiating_neurons.bw
+shortLabel hpf72_Differentiating_neurons
+longLabel hpf72_Differentiating_neurons
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Differentiating_neurons_dlx1a
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Differentiating_neurons_dlx1a.bw
+shortLabel hpf72_Differentiating_neurons_dlx1a
+longLabel hpf72_Differentiating_neurons_dlx1a
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Differentiating_neurons_eomes
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Differentiating_neurons_eomes.bw
+shortLabel hpf72_Differentiating_neurons_eomes
+longLabel hpf72_Differentiating_neurons_eomes
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Differentiating_neurons_ganglion
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Differentiating_neurons_ganglion.bw
+shortLabel hpf72_Differentiating_neurons_ganglion
+longLabel hpf72_Differentiating_neurons_ganglion
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Differentiating_neurons_phox2bb
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Differentiating_neurons_phox2bb.bw
+shortLabel hpf72_Differentiating_neurons_phox2bb
+longLabel hpf72_Differentiating_neurons_phox2bb
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Endothelial
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Endothelial.bw
+shortLabel hpf72_Endothelial
+longLabel hpf72_Endothelial
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Erythroid
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Erythroid.bw
+shortLabel hpf72_Erythroid
+longLabel hpf72_Erythroid
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Eye_cornea
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Eye_cornea.bw
+shortLabel hpf72_Eye_cornea
+longLabel hpf72_Eye_cornea
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Fast_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Fast_muscle_cells.bw
+shortLabel hpf72_Fast_muscle_cells
+longLabel hpf72_Fast_muscle_cells
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Floorplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Floorplate.bw
+shortLabel hpf72_Floorplate
+longLabel hpf72_Floorplate
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Gut
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Gut.bw
+shortLabel hpf72_Gut
+longLabel hpf72_Gut
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Hatching_gland
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Hatching_gland.bw
+shortLabel hpf72_Hatching_gland
+longLabel hpf72_Hatching_gland
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Heart_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Heart_field.bw
+shortLabel hpf72_Heart_field
+longLabel hpf72_Heart_field
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Hindbrain_dorsal
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Hindbrain_dorsal.bw
+shortLabel hpf72_Hindbrain_dorsal
+longLabel hpf72_Hindbrain_dorsal
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Lateral_line_primordium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Lateral_line_primordium.bw
+shortLabel hpf72_Lateral_line_primordium
+longLabel hpf72_Lateral_line_primordium
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Lens
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Lens.bw
+shortLabel hpf72_Lens
+longLabel hpf72_Lens
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Liver_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Liver_cells.bw
+shortLabel hpf72_Liver_cells
+longLabel hpf72_Liver_cells
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Midbrain
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Midbrain.bw
+shortLabel hpf72_Midbrain
+longLabel hpf72_Midbrain
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Midbrain_ventral
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Midbrain_ventral.bw
+shortLabel hpf72_Midbrain_ventral
+longLabel hpf72_Midbrain_ventral
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Myoblast
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Myoblast.bw
+shortLabel hpf72_Myoblast
+longLabel hpf72_Myoblast
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Myotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Myotome.bw
+shortLabel hpf72_Myotome
+longLabel hpf72_Myotome
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Neural_crest
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Neural_crest.bw
+shortLabel hpf72_Neural_crest
+longLabel hpf72_Neural_crest
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Neural_crest_derived_mesoderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Neural_crest_derived_mesoderm.bw
+shortLabel hpf72_Neural_crest_derived_mesoderm
+longLabel hpf72_Neural_crest_derived_mesoderm
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Notochord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Notochord.bw
+shortLabel hpf72_Notochord
+longLabel hpf72_Notochord
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Olfactory_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Olfactory_placode.bw
+shortLabel hpf72_Olfactory_placode
+longLabel hpf72_Olfactory_placode
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Otic_placode
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Otic_placode.bw
+shortLabel hpf72_Otic_placode
+longLabel hpf72_Otic_placode
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Pectoral_fin_field
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Pectoral_fin_field.bw
+shortLabel hpf72_Pectoral_fin_field
+longLabel hpf72_Pectoral_fin_field
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Periderm
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Periderm.bw
+shortLabel hpf72_Periderm
+longLabel hpf72_Periderm
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Pharyngeal_arch
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Pharyngeal_arch.bw
+shortLabel hpf72_Pharyngeal_arch
+longLabel hpf72_Pharyngeal_arch
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Pharyngeal_epidermis
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Pharyngeal_epidermis.bw
+shortLabel hpf72_Pharyngeal_epidermis
+longLabel hpf72_Pharyngeal_epidermis
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Pigment_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Pigment_cells.bw
+shortLabel hpf72_Pigment_cells
+longLabel hpf72_Pigment_cells
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Pronephric_duct
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Pronephric_duct.bw
+shortLabel hpf72_Pronephric_duct
+longLabel hpf72_Pronephric_duct
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_Amacrine
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_Amacrine.bw
+shortLabel hpf72_Retina_Amacrine
+longLabel hpf72_Retina_Amacrine
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_Cone_bipolar_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_Cone_bipolar_cells.bw
+shortLabel hpf72_Retina_Cone_bipolar_cells
+longLabel hpf72_Retina_Cone_bipolar_cells
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_Cones
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_Cones.bw
+shortLabel hpf72_Retina_Cones
+longLabel hpf72_Retina_Cones
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_Horizontal_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_Horizontal_cells.bw
+shortLabel hpf72_Retina_Horizontal_cells
+longLabel hpf72_Retina_Horizontal_cells
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_Muller_glia
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_Muller_glia.bw
+shortLabel hpf72_Retina_Muller_glia
+longLabel hpf72_Retina_Muller_glia
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_Photoreceptor_precursor_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_Photoreceptor_precursor_cells.bw
+shortLabel hpf72_Retina_Photoreceptor_precursor_cells
+longLabel hpf72_Retina_Photoreceptor_precursor_cells
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_RGC
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_RGC.bw
+shortLabel hpf72_Retina_RGC
+longLabel hpf72_Retina_RGC
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_Rods
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_Rods.bw
+shortLabel hpf72_Retina_Rods
+longLabel hpf72_Retina_Rods
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_neuroblasts
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_neuroblasts.bw
+shortLabel hpf72_Retina_neuroblasts
+longLabel hpf72_Retina_neuroblasts
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Retina_pigmented_epithelium
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Retina_pigmented_epithelium.bw
+shortLabel hpf72_Retina_pigmented_epithelium
+longLabel hpf72_Retina_pigmented_epithelium
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Roofplate
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Roofplate.bw
+shortLabel hpf72_Roofplate
+longLabel hpf72_Roofplate
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Sclerotome
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Sclerotome.bw
+shortLabel hpf72_Sclerotome
+longLabel hpf72_Sclerotome
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Slow_muscle_cells
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Slow_muscle_cells.bw
+shortLabel hpf72_Slow_muscle_cells
+longLabel hpf72_Slow_muscle_cells
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Tailbud_spinal_cord
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Tailbud_spinal_cord.bw
+shortLabel hpf72_Tailbud_spinal_cord
+longLabel hpf72_Tailbud_spinal_cord
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_Telencephalon
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_Telencephalon.bw
+shortLabel hpf72_Telencephalon
+longLabel hpf72_Telencephalon
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+
+track hpf72_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf72/hpf72_YSL.bw
+shortLabel hpf72_YSL
+longLabel hpf72_YSL
+group hpf72
+type bigWig
+autoScale on
+visibility hide
+priority 21
+

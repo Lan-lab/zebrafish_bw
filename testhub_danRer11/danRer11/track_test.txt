@@ -1,0 +1,35 @@
+track All_Peakset
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_Peakset.bed
+shortLabel hpf4_DEL
+longLabel hpf4_DEL
+type bigBed
+visibility full
+group test1
+
+track hpf4_DEL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf4/hpf4_DEL.bw
+shortLabel hpf4_DEL
+longLabel hpf4_DEL
+type bigWig
+autoScale on
+visibility full
+group test1
+
+track hpf4_EVL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf4/hpf4_EVL.bw
+shortLabel hpf4_EVL
+longLabel hpf4_EVL
+type bigWig
+autoScale on
+visibility full
+group test2
+
+track hpf4_YSL
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_BigWig/hpf4/hpf4_YSL.bw
+shortLabel hpf4_YSL
+longLabel hpf4_YSL
+type bigWig
+autoScale on
+visibility full
+group test2
+

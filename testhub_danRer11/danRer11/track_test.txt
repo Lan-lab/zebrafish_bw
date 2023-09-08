@@ -1,8 +1,8 @@
 track All_Peakset
-bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_Peakset.bed
-shortLabel hpf4_DEL
-longLabel hpf4_DEL
-type Bed
+bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/ZEPA_Peakset.bb
+shortLabel All_Peakset
+longLabel All_Peakset
+type bigBed
 visibility full
 group test1
 

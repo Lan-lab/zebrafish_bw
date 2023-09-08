@@ -1,2 +1,2 @@
 genome danRer11
-trackDb danRer11/track_test.txt
+trackDb danRer11/all_track.txt

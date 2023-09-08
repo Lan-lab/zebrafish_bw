@@ -1,7 +1,7 @@
-track hpf4_DEL
+track hpf4_DEL_track
 bigDataUrl http://43.159.141.176/pdata/sky_zebrafish/hpf4_DEL.bw
-shortLabel hpf4_DEL
-longLabel hpf4_DEL
+shortLabel hpf4_DEL_shortLabel
+longLabel hpf4_DEL_longLabel
 type bigWig
 autoScale on
 visibility full
